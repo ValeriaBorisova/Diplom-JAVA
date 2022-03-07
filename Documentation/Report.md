@@ -1,6 +1,6 @@
 # [Отчёт по итогам тестирования][Task]
 
-| `Gradle` [_Test Summary_](file:///C:/Users/USER/IdeaProjects/AqaDiplom/build/reports/tests/test/index.html) | `Gradle` [_Test Allure-Report_][Netlify] |
+| `Gradle` [_Test Summary_](https://github.com/ValeriaBorisova/Diplom-JAVA/blob/master/Documentation/Test%20Summary.png) | `Gradle` [_Test Allure-Report_][Netlify] |
 | :---: | :---: |
 
 
@@ -8,7 +8,7 @@
 - [ ] **На следующем этапе** были созданы **авто-тесты, согласно [Плану автоматизации тестирования]
 
 - [ ] Тестовые сценарии отрабатывались в контексте непосредственной оплаты, а также для кредитной линии (`Happy path`&`Unhappy path`). При этом проверялась корректность внесения информации в две базы данных: [_PostgreSQL_][PostgreSQL] (`default database`) и [_MySQL_][MySQL].
-- [ ] Всего было исполнено **36** тестов, [успешных](file:///C:/Users/USER/IdeaProjects/AqaDiplom/build/reports/tests/test/index.html) из них всего **66%**. При этом обе заявленные базы данных поддерживаются одинаково хорошо, производительность [_PostgreSQL_][PostgreSQL] оказалась несколько выше. В целом можно рекомендовать более тщательную проработку кредитной части сервиса
+- [ ] Всего было исполнено **36** тестов, [успешных](https://github.com/ValeriaBorisova/Diplom-JAVA/blob/master/Documentation/Test%20Summary.png) из них всего **63%**. При этом обе заявленные базы данных поддерживаются одинаково хорошо, производительность [_PostgreSQL_][PostgreSQL] оказалась несколько выше. В целом можно рекомендовать более тщательную проработку кредитной части сервиса
 
 #### ⚠️ Проведённая работа выявила ряд проблем, требующих внимания ⚠️Issue
 
