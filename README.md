@@ -22,7 +22,9 @@ __________________________________
          
             * Необходима предварительная установка [DockerToolbox и VirtualBox](https://it-black.ru/ustanovka-docker/) :
               
-               ⚠️Особое внимание следует уделить обладателям машин с предустановленной OC Windows  + процессор AMD ⚠️ Необходим дополнительный скрипт ```docker-machine create default --virtualbox-no-vtx-check```
+             ⚠️Особое внимание следует уделить обладателям машин с предустановленной OC Windows  + процессор AMD ⚠️ 
+             
+                Необходим дополнительный скрипт ```docker-machine create default --virtualbox-no-vtx-check```
     
             * Docker Desctop [устоновка](https://www.docker.com/products/docker-desktop)
             
