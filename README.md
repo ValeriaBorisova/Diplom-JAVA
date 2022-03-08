@@ -26,11 +26,11 @@ __________________________________
              
                 Необходим дополнительный скрипт ```docker-machine create default --virtualbox-no-vtx-check```
     
-            * Docker Desctop [устоновка](https://www.docker.com/products/docker-desktop)
+         * Docker Desctop [установка](https://www.docker.com/products/docker-desktop)
             
          - Для ОС MacOS:
           
-            *  Docker Desctop [устоновка](https://www.docker.com/products/docker-desktop)
+            *  Docker Desctop [установка](https://www.docker.com/products/docker-desktop)
      * DBeaver [установка](https://dbeaver.io/download/) -  необходимо выбрать установочный файл согласно предустановленной ОС на локальной машине
      * Стабильное интернет соединение - предпочтительно по Wi-Fi
 _____________________________________
